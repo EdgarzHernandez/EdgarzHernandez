@@ -56,9 +56,8 @@
 <hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
+
+I'm glad you visited my profile 😁
+
 <Br>
 
-------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
