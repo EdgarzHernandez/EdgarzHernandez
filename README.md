@@ -48,7 +48,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=EdgarzHernandez_icons=true&theme=merko)](https://github.com/EdgarzHernandez/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarzHernandez&layout=compact&theme=merko)](https://github.com/EdgarzHernandez/github-readme-stats)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=EdgarzHernandez&show_icons=true&theme=merko)](https://github.com/EdgarzHernandez/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarzHernandez&layout=compact&theme=merko)](https://github.com/EdgarzHernandez/github-readme-stats)
 
 <Br>
 
